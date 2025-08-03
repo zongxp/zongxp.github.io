@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Xiaopeng Zong"
+  pronouns         : "He/him"  
+  bio              : "Assistant Professor"
+  location         : "Shanghai"
+  employer         : "ShanghaiTech University"
+  uri              : https://bme.shanghaitech.edu.cn/2021/0326/c8204a1073725/page.htm
+  email            : "zongxp@shanghaitech.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -37,9 +37,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-4235-6948"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=xiaopeng+zong"
   researchgate     : # URL
   scopus           : # URL
 
