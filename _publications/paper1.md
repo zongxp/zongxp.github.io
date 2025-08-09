@@ -2,7 +2,7 @@
 title: "A deep learning approach for quantifying CT perfusion parameters in stroke"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 
 excerpt: 
 date: 2025-04-16
 venue: 'Biomed Phys Eng Express'
@@ -11,4 +11,3 @@ paperurl: 'http://zongxp.github.io/files/2025_Zeng_Biomed._Phys._Eng._Express_11
 bibtexurl:
 citation: 'Zeng W, Li Y, Zhang JL, Chen T, Wu K, Zong X. A deep learning approach for quantifying CT perfusion parameters in stroke. Biomed Phys Eng Express. 2025 Apr 16;11(3). doi: 10.1088/2057-1976/adc9b6. PMID: 40194529.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
