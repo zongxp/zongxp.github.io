@@ -1,5 +1,5 @@
 ---
-title: "Physical Principles of in vivo GABA quantification using MEGA-PRESS"
+title: "生物医学电子学I (Biomedical Electronics)"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2024-fall-teaching
