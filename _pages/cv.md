@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Condensed Matter Physics, Iowa State University, 2007
+* B.S. in Applied Physics, University of Science and Technology of China, 1998
+* B.S. in Electrical Engineering, University of Science and Technology of China, 1999
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2022 – Present: Assistant Professor
+  School of Biomedical Engineering, ShanghaiTech University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2021 – Jun 2022: MR Imaging Faculty Advisor, 
+  Biomedical Research Imaging Center, University of North Carolina at Chapel Hill
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2016 – Jun 2022: Research Assistant/Associate Professor
+  Department of Radiology, University of North Carolina at Chapel Hill
 
 Publications
 ======
