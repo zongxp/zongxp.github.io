@@ -1,5 +1,5 @@
 ---
-title: "生物医学电子学I (Biomedical Electronics)"
+title: "生物医学电子学I (Biomedical Electronics I)"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2023-fall-teaching
