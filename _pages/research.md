@@ -30,7 +30,7 @@ Based on the measured motion parameters, we are devloping methods that can corre
  MRI can not only produce images of the human interior,
  but also is capable of deriving physical and physiologically meaningful parameters such as flow velocity, blood volume, blood oxygenation, vessel diameter, and temparature.  
 It can be argued that such parameters can provide deeper insight into the inner functioning and dysfunctioning of the human body than purely MRI based parameters such as functional connectivity, BOLD activation amplitude, and NMR relaxation rates which can be affected by a multitude of underlying factors, and are thus hard to interpret.  
-
 Our research builds physical models that bridges the gap between the properties of imaged objects (such as blood vessel, cerebral spinal fluid, muscle) and MRI signal, thus enabling us to derive quantitative measures of the objects using MRI. 
+
 To reduce model complexity, 2D MRI with limited spatial coverage is often adopted.  Motion correction is an integral part of quantitative MRI, especially in 2D MRI.  It not only enables consistent placement of imaging slice in longitudinal studies, but also ensures accurate quantifcation results.   
 

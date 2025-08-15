@@ -11,12 +11,12 @@ main:
   - title: "About us"
     url: /about/
 
+  - title: "Teaching"
+    url: /teaching/   
+
   - title: "Research"
     url: /research/
-      
-  - title: "Teaching"
-    url: /teaching/    
-    
+          
   - title: "Publications"
     url: /publications/
 
