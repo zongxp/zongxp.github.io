@@ -1,10 +1,7 @@
 ---
-permalink: /
+layout: archive
 title: "Research"
-author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
+permalink: /research/
 ---
 
 Our research efforts focus on the following two interconnected areas: 

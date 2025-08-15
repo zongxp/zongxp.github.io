@@ -1,10 +1,7 @@
 ---
-permalink: /
-title: "About us"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: archive
+title: "About"
+permalink: /about/
 ---
 
 The MRI physics lab at ShanghaiTech University directed by Prof. Zong focuses on the development of MRI methods 
