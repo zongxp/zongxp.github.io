@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Academic page (under construction...)"
+title                    : "MRI Physics Lab"
 title_separator          : "-"
 name                     : &name "Xiaopeng Zong2"
 description              : &description "personal description"

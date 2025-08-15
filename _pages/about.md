@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The MRI physics lab focuses on the development of MRI methods that can facilitate our understanding of human brain 
+The MRI physics lab at ShanghaiTech University directed by Prof. Zong focuses on the development of MRI methods that can facilitate our understanding of human brain 
 function and the diagnosis of neurological diseases. Emphasis is given to the development of methods that can produce quantative, interpretable, and reproducible results.  Current research efforts include the following two synergetically interconnected areas: 1) motion correction that can reduce motion artifacts and artifact-induced errors in quantification results; 2) quantitative MRI that derives physioloigcally meaningful parameters.
 
 
