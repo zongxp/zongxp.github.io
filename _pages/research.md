@@ -31,6 +31,7 @@ Based on the measured motion parameters, we are devloping methods that can corre
   - Further improving SNR by utilizing custom designed high permittivity materials and wireless coil elements;  
   - developing deep learning based automatic segmentation models;
   - building physical models that can derive physiologically meaningful results despite the presence of severe partial volume effects;  
+
 The overarching goal is to develop MRI methods that can accurately follow the pathogenesis of small vessel lesions prior to the development of tissue damage, which will pave the way for the development of more effective therapeautic strategies of cerebral small vessel disease.  
  
 ## 3. Other research activities
