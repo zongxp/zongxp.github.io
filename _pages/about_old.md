@@ -1,10 +1,7 @@
 ---
-permalink: /
+layout: archive
 title: "About"
-author_profile: true
-redirect from:
-  - /about/
-  - /about.html
+permalink: /about/
 ---
 
 The MRI physics lab is situated within the School of Biomedical Engineering at ShanghaiTech University.
