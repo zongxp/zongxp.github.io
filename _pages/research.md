@@ -4,9 +4,9 @@ title: "Research"
 permalink: /research/
 ---
 
-Our research efforts focus on the following two interconnected areas: 
- 1. **motion correction** that can reduce motion artifacts and artifact-induced errors in quantification results; 
- 2. **quantitative MRI** that derives physioloigcally meaningful parameters.
+Our research focuses on the following two interconnected areas:
+ 1. **motion correction** that eliminates artifacts in brain images and reduces errors in image-derived quantitative measures;
+ 2. **Small vessel MRI methods** that can monitor early blood vessel lesions underlying cerebral small vessel disease.
 
 
 ## 1. Motion correction
@@ -17,17 +17,21 @@ Our research efforts focus on the following two interconnected areas:
    - B0 field changes;
    - coil sensitivity changes, which can all in turn affect measured MRI signal.
  
-Our research aims to develop hybrid motion measurement techniques to achieve fast and reliable head motion measurement. Ongoing techniques under development include fat navigators that can provide stable motion parameter measurement and motion sensitive electromagentic induction coils that can has higher temporal resolution.
+Our research aims to develop hybrid motion measurement techniques to achieve fast and reliable head motion measurement.  Techniques under development include fat navigators that can provide stable motion parameter measurement and motion sensitive electromagentic induction coils that has higher temporal resolution.
 
-Based on the measured motion parameters, we are devloping methods that can correct the above motion-induced effects in the clinical MRI sequences. To correct for B0 field and coil sensitivity changes, we are developing physical and neural network models that can predict motion-induced B0 field and coil sensitivity changes from motion parameters.
+Based on the measured motion parameters, we are devloping methods that can correct the above-mentioned motion effects in the clinical MRI sequences. To correct for the last two effects, we are developing physical and neural network models that can predict motion-induced B0 field and coil sensitivity changes from motion parameters.
 
 
-## 2. Quantitative MRI
+## 2. Small vessel MRI
 
- MRI can not only produce images of the human interior,
- but also is capable of deriving physical and physiologically meaningful parameters such as flow velocity, blood volume, blood oxygenation, vessel diameter, and temparature.  
-It can be argued that such parameters can provide deeper insight into the inner functioning and dysfunctioning of the human body than purely MRI based parameters such as functional connectivity, BOLD activation amplitude, and NMR relaxation rates which can be affected by a multitude of underlying factors, and are thus hard to interpret.  
-Our research builds physical models that bridges the gap between the properties of imaged objects (such as blood vessel, cerebral spinal fluid, muscle) and MRI signal, thus enabling us to derive quantitative measures of the objects using MRI. 
+ Cerebral small vessel disease is common among individuals above 60 years of age.  However, current clinical MRI sequences can only detect tissue damages induced by the small vessel lesions, but not the vessel lesions themselves that occur at an earlier stage of the disease, which hampered the development of effective therapeautic strategies. The inability of detecting the small vessel lesons is largely due to insufficient spatial resolution and poor signal to noise ratio for detecting such small structures.  To overcome these limitations, a multitude of strategies are being pursued, including 
+  - motion correction to ensure high quality images and consistent results during longitudinal monitoring;
+  - targeted imaging of small vessels with high in-plane resolution and thick slices perpendicular to the vessels;
+  - improving SNR by utilizing ultra high magnetic field strengths such as 5 T and 7 T;
+  - improving MRI signal detection sensitivity using custom designed high permittivity materials and wireless coil elements;  
+  - building physical models that can derive physiologically meaningful results despite the presence of severe partial volume effects;  
+The overarching goal is to develop MRI methods that can accurately follow the pathogenesis of small vessel lesions prior to the development of tissue lesion, which will pave the way for the more effective therapeautic strategies of cerebral small vessel disease.  
+ 
+## 3. Other research activities
 
-To reduce model complexity, 2D MRI with limited spatial coverage is often adopted.  Motion correction is an integral part of quantitative MRI, especially in 2D MRI.  It not only enables consistent placement of imaging slice in longitudinal studies, but also ensures accurate quantifcation results.   
-
+To accommodate the research interests of invidiual group members, we are also pursuing research projects unrelated to the above two topics, such as oxygenation and perfusion MRI of human kidneys, deep learning based quantification of tissue perfusion based on dynamic imaging data, and MRI study of the physiological effects of acupoint stimulation practiced in tranditional Chinese medicine.
