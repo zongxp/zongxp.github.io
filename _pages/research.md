@@ -35,4 +35,4 @@ The overarching goal is to develop MRI methods that can accurately follow the pa
  
 ## 3. Other research activities
 
-We also encourage students to pursue other research directions that suits their interests and career development goals. Research projects unrelated to the above two topics include oxygenation and perfusion MRI of human kidneys, deep learning based quantification of tissue perfusion based on dynamic imaging data, and MRI study of the physiological effects of acupoint stimulation practiced in tranditional Chinese medicine.
+We also encourage students to pursue other research directions that suit their interests and career development goals. Research projects unrelated to the above two topics include oxygenation and perfusion MRI of human kidneys, deep learning based quantification of tissue perfusion based on dynamic imaging data, and MRI study of the physiological effects of acupoint stimulation practiced in tranditional Chinese medicine.
