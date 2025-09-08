@@ -6,7 +6,7 @@ permalink: /research/
 
 Our research focuses on the following two interconnected areas:
  1. **motion correction** that eliminates artifacts in brain images and reduces errors in image-derived quantitative measures;
- 2. **Small vessel MRI methods** that can monitor early blood vessel lesions underlying cerebral small vessel disease.
+ 2. **small vessel MRI methods** that can monitor early blood vessel lesions underlying cerebral small vessel disease.
 
 
 ## 1. Motion correction
@@ -27,8 +27,8 @@ Based on the measured motion parameters, we are devloping methods that can corre
  Cerebral small vessel disease is common among individuals above 60 years of age.  However, current clinical MRI sequences can only detect **tissue damages** induced by the diseased small vessel, but not the vessel lesions themselves that occur at an earlier stage of the disease, which hampered the development of effective therapeautic strategies. The inability of detecting the small vessel lesons is largely due to lack of sufficient spatial resolution, poor signal to noise ratio for detecting such small structures, and paucity of quantitative studies due to the challenges in small vessel segmentation and the presence of severe partial volume effects.  To overcome these limitations, a multitude of strategies are being pursued, including 
   - motion correction to ensure high quality images and consistent results during longitudinal studies;
   - targeted imaging of small vessels with high in-plane resolution and thick slices perpendicular to the vessels to simultaneously achieve high SNR and high spatial resolution;
-  - Further improving SNR by scanning under ultra high magnetic field strengths such as 5 T and 7 T;
-  - Further improving SNR by utilizing custom designed high permittivity materials and wireless coil elements;  
+  - further improving SNR by scanning under ultra high magnetic field strengths such as 5 T and 7 T;
+  - further improving SNR by utilizing custom designed high permittivity materials and wireless coil elements;  
   - developing deep learning based automatic segmentation models;
   - building physical models that can derive physiologically meaningful results despite the presence of severe partial volume effects;  
 
