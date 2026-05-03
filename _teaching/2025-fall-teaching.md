@@ -2,7 +2,8 @@
 title: "生物医学电子学I (Biomedical Electronics I)"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2024-fall-teaching
+permalink: /teaching/2025-fall-teaching
 venue: "School of Biomedical Engineering, ShanghaiTech University"
-date: 2024-09-01
+date: 2025-09-01
 ---
+
