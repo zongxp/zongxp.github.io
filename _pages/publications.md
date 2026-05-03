@@ -12,10 +12,10 @@ permalink: /publications/
 
 # 2025
 
-1.	X. Wang, Y. Xiong, X. Liu, X. Zong, C. Duan, Y. Wu, X. Bian, S. Wang, J. Hu, L. Zhang, H. Lu, B. Zhao, J. Huang, Y. Li, Z. Li, Z. Dong, X. Lou， Subcortical nuclei and glymphatic sys-tem alterations in migraine with aura: a comparative 7T multimodal MRI analysis, J Headache Pain, 27(1):22 (2025).
+1.	X. Wang, Y. Xiong, X. Liu, X. Zong, C. Duan, Y. Wu, X. Bian, S. Wang, J. Hu, L. Zhang, H. Lu, B. Zhao, J. Huang, Y. Li, Z. Li, Z. Dong, X. Lou， Subcortical nuclei and glymphatic system alterations in migraine with aura: a comparative 7T multimodal MRI analysis, J Headache Pain, 27(1):22 (2025).
 5.	T. Yu, S. Wei, J. Zhu, X. Ye, and X. Zong, Posture Dependence of Cerebral Spinal Fluid and Blood Flow by Phase Contrast MRI at 3T, NMR in Biomedicine, 38:e70157 (2025).
 6.	W. Zeng, Y. Li, J. Zhang, T. Chen, K. Wu, X. Zong, A deep learning approach for quantifying CT perfusion parameters in stroke, Biomed Phys Eng Express, 11(3). doi: 10.1088/2057-1976/adc9b6, (2025).
-7.	B. Zhao, Y. Zhou, X. Zong, Accuracies of four simulation approaches in reproducing motion artifacts and morphometric parameter biases, Magnetic Resonance Materials in Physics, Biol-ogy and Medicine, 38:845, (2025).
+7.	B. Zhao, Y. Zhou, X. Zong, Accuracies of four simulation approaches in reproducing motion artifacts and morphometric parameter biases, Magnetic Resonance Materials in Physics, Biology and Medicine, 38:845, (2025).
 8.	Y. Zhou, B. Zhao, J. Moore, X. Zong, Automatic Segmentation and Diameter Measurement of Deep Medullary Veins, Magn. Reson. Med., 93:1380-1393 (2025).
 
 # 2024
@@ -23,22 +23,22 @@ permalink: /publications/
 1.	Y. Liu, K. Sun, H. Qi, J. Yang, X. Zong, Y. Pan, Y. Gu, S. He, H. Zhang, Y. Zhang, and D. Shen，SRM-Net: Joint Sampling and Reconstruction and Mapping Network for Accelerated 3T Brain Multi-parametric MR Imaging, IEEE Transactions on Biomedical Engineering, 72:1811(2024).
 10.	B. Zhao, Y. Zhou, X. Zong, Effects of prospective motion correction on perivascular spaces at 7T MRI evaluated using motion artifact simulation, Magn. Reson. Med. 92:1079 (2024).
 11.	C. McGrath, S. Little-Letsinger, G. Pagnotti, B. Sen, Z. Xie, G. Uzer, G. B Uzer, X. Zong, M. A Styner, J. Rubin, M. Styner, Diet Stimulated Marrow Adiposity Fails to Worsen Early, Age-Related Bone Loss, Obes. Facts, 17:145-157 (2024).
-12.	J. Powell, X. Zong, J. Weinstein, S. DeLellis, S. Kane, G. Means, J. Mihalik, Mild Traumatic Brain Injury and Career Stage Associate with Visible Perivascular Spaces in Special Opera-tions Forces Soldiers, Annals of Biomedical Engineering 52:2812–2817 (2024).
+12.	J. Powell, X. Zong, J. Weinstein, S. DeLellis, S. Kane, G. Means, J. Mihalik, Mild Traumatic Brain Injury and Career Stage Associate with Visible Perivascular Spaces in Special Operations Forces Soldiers, Annals of Biomedical Engineering 52:2812–2817 (2024).
 
 # 2023 
 
-1.	J. Zhang, K. Sun, J. Yang, Y. Hu, Y. Gu, Z. Cui, X. Zong, F. Gao, D. Shen，A generalized du-al-domain generative framework with hierarchical consistency for medical image reconstruc-tion and synthesis, Communications Engineering, 2, 72 (2023).
+1.	J. Zhang, K. Sun, J. Yang, Y. Hu, Y. Gu, Z. Cui, X. Zong, F. Gao, D. Shen，A generalized dual-domain generative framework with hierarchical consistency for medical image reconstruc-tion and synthesis, Communications Engineering, 2, 72 (2023).
 14.	S. Hu, Y. Chen, X. Zong, W. Lin, M. Griswold, D. Ma, Improving motion robustness of 3D MR Fingerprinting with a fat navigator, Magn. Reson. Med, 90, 1802 (2023). 
 15.	X. Zong, J. Jimenez, T. Li, W. Powers, In vivo detection of penetrating arteriole alterations in cerebral white matter in patients with diabetes with 7 T MRI, Magnetic Resonance Imaging, 100, 84-92 (2023).
 
 # 2022
 
-1.	J. Moore, J. Jimenez, W. Lin, W. Powers, X. Zong, Prospective Motion Correction and Auto-matic Segmentation of Penetrating Arteries in Phase Contrast MRI at 7 T, Magn. Reson. Med, 88, 2088-2100 (2022).
-17.	A. Rina1, A. Papanikolaou, X. Zong, Dorina T. Papageorgiou, G. A. Keliris, and S. M. Smir-nakis, Visual Motion Coherence Responses in Human Visual Cortex, Frontiers in Neuroscience, doi:10.3389/fnins.2022.719250 (2022).
+1.	J. Moore, J. Jimenez, W. Lin, W. Powers, X. Zong, Prospective Motion Correction and Automatic Segmentation of Penetrating Arteries in Phase Contrast MRI at 7 T, Magn. Reson. Med, 88, 2088-2100 (2022).
+17.	A. Rina1, A. Papanikolaou, X. Zong, Dorina T. Papageorgiou, G. A. Keliris, and S. M. Smirnakis, Visual Motion Coherence Responses in Human Visual Cortex, Frontiers in Neuroscience, doi:10.3389/fnins.2022.719250 (2022).
 
 # 2021 
 
-1.	X. Zong, S. Nanavati, T. Li, and W. Lin, Effects of Motion and Retrospective Motion Correc-tion on the Visualization and Quantification of Perivascular Spaces in Ultrahigh Resolution T2-weighted Images at 7 T, Magn. Reson. Med. 86, 1944 (2021).
+1.	X. Zong, S. Nanavati, T. Li, and W. Lin, Effects of Motion and Retrospective Motion Correction on the Visualization and Quantification of Perivascular Spaces in Ultrahigh Resolution T2-weighted Images at 7 T, Magn. Reson. Med. 86, 1944 (2021).
 19.	KG Wallace, SJ Pfeiffer, LS Pietrosimone, MS Harkey, X. Zong, D Nissman, GM Kamath, RA Creighton, JT Spang, JT Blackburn, B Pietrosimone. Changes in Infrapatellar Fat Pad Volume Following Anterior Cruciate Ligament Reconstruction and Associations with Patient-Reported Outcomes. Journal of Athletic Training. doi: 10.4085/1062-6050-0458.20 (2021).
 
 # 2020
@@ -59,7 +59,7 @@ permalink: /publications/
 
 1.	M. Styner, G. M Pagnotti, C. McGrath, X. Wu, B. Sen, G. Uzer, Z. Xie, X. Zong, M. A Styner, C. T Rubin, and J. Rubin, Exercise Decreases Marrow Adipose Tissue Through ß-Oxidation in Obese Running Mice, Journal of Bone and Mineral Research, 32:1692-1702 (2017).
 27.	H. Wei, R. Dibb, K. Decker, N. Wang, Y. Zhang, X. Zong, W. Lin, D. B. Nissman and C. Liu, Investigating magnetic susceptibility of human knee joint at 7 Tesla, Magn. Reson. Med., 78: 1933-1943 (2017).
-28.	J. Zhang, Y. Gao, S. H. Park, X. Zong, W. Lin, D. Shen, Structured Learning for 3D Peri-vascular Spaces Segmentation Using Vascular Features, IEEE Trans. Biomed. Eng., 64: 2803-2812 (2017).
+28.	J. Zhang, Y. Gao, S. H. Park, X. Zong, W. Lin, D. Shen, Structured Learning for 3D Perivascular Spaces Segmentation Using Vascular Features, IEEE Trans. Biomed. Eng., 64: 2803-2812 (2017).
 29.	Y. Hou, SH Park, Q. Wang, J. Zhang, X. Zong, W Lin, D Shen, Enhancement of perivascular spaces in 7 T MR image using Haar transform of non-local cubes and block-matching filtering, Scientific reports 7 (1), 1-12 (2017)
 
 # 2016
