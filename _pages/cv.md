@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* Aug 2022 – Present: Assistant Professor
+* Aug 2022 – Present: Assistant Professor,
   School of Biomedical Engineering, ShanghaiTech University
 
-* Jan 2021 – Jun 2022: MR Imaging Faculty Advisor 
+* Jan 2021 – Jun 2022: MR Imaging Faculty Advisor, 
   Biomedical Research Imaging Center, University of North Carolina at Chapel Hill
 
-* May 2016 – Jun 2022: Research Assistant/Associate Professor
+* May 2016 – Jun 2022: Research Assistant/Associate Professor,
   Department of Radiology, University of North Carolina at Chapel Hill
 
