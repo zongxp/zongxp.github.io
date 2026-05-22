@@ -53,7 +53,7 @@ permalink: /publications/
 # 2018
 
 1.	Y. Zhang, J. Xiao, J. Peng, Y. Ding, J. Liu, Z. Guo, **X. Zong**, Kernel Wiener filtering model with low-rank approximation for image denoising, Information Sciences 462, 402-416 (2018).
-25.	C. Lian, J. Zhang, M. Liu, X Zong, SC Hung, W. Lin, D. Shen, Multi-Channel Multi-Scale Fully Convolutional Network for 3D Perivascular Spaces Segmentation in 7T MR Images, Medical Imaging Analysis, 46:106-117 (2018).
+25.	C. Lian, J. Zhang, M. Liu, **X. Zong**, SC Hung, W. Lin, D. Shen, Multi-Channel Multi-Scale Fully Convolutional Network for 3D Perivascular Spaces Segmentation in 7T MR Images, Medical Imaging Analysis, 46:106-117 (2018).
 
 # 2017 
 
@@ -64,7 +64,7 @@ permalink: /publications/
 
 # 2016
  
-1.	X. Ma, J. Tian, Z. Wu, X Zong, J. Dong, W. Zhan, Y. Xu, Z. Li, G Jiang, Spatial disassocia-tion of disrupted functional connectivity for the default mode network in patients with end-stage renal disease, Plos one 11 (8), e0161392 (2016)
+1.	X. Ma, J. Tian, Z. Wu, **X. Zong**, J. Dong, W. Zhan, Y. Xu, Z. Li, G Jiang, Spatial disassocia-tion of disrupted functional connectivity for the default mode network in patients with end-stage renal disease, Plos one 11 (8), e0161392 (2016)
 31.	S. H. Park, **X. Zong**, Y. Gao, W. Lin, and D. Shen, Segmentation of perivascular spaces in 7 T MR image using auto-context model with orientation-normalized features. NeuroImage 134, 223-235 (2016). 
 32.	K. Bahrami, F. Shi, **X. Zong**, H. W. Shin, H. An, and D. Shen, Reconstruction of 7T-like images from 3T MRI, IEEE Trans. Med. Imaging 35, 2085 (2016).
 33.	**X. Zong**, S. H. Park, D. Shen, and W. Lin, Visualization of perivascular spaces in the human brain at 7 T: sequence optimization and morphology characterization, NeuroImage 125, 895 (2016).
