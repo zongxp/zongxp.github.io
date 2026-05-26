@@ -6,7 +6,7 @@ permalink: /publications/
 
 # 2026
 
-1.	J. Lu, T. Yu, S. Wei, Y. Lin, J. Ning, J. Ai, W. Zhang, J. Zhu, S. Qiu, **X. Zong**, Visibility of Penetrating Arteries within Perivascular Spaces in White Matter at 5 T, Biomedical Engineering Communications, in press (2026).
+1.	J. Lu, T. Yu, S. Wei, Y. Lin, J. Ning, J. Ai, W. Zhang, J. Zhu, S. Qiu, **X. Zong**, Visibility of Penetrating Arteries within Perivascular Spaces in White Matter at 5 T, Biomedical Engineering Communications, doi:10.53388/BMEC2026038 (2026).
 2.	J. Ning, Y. Li, X. Lin, **X. Zong**, Effects of acupoint pressure stimulation on the fatigue recovery ability of the calf muscle, European Journal of Applied Physiology, doi:10.1007/s00421-026-06185-x (2026).
 3.	J. Zhang, X. Kong, X. Lin, Y. Li, J. Zhang, **X. Zong**, Deep learning-based perfusion quantification and large vessel exclusion for renal multi-TI arterial spin labelling MRI, Magnetic Resonance Imaging, 126:110573 (2026).
 
