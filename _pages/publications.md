@@ -21,7 +21,7 @@ permalink: /publications/
 # 2024
 
 1.	Y. Liu, K. Sun, H. Qi, J. Yang, **X. Zong**, Y. Pan, Y. Gu, S. He, H. Zhang, Y. Zhang, and D. Shen，SRM-Net: Joint Sampling and Reconstruction and Mapping Network for Accelerated 3T Brain Multi-parametric MR Imaging, IEEE Transactions on Biomedical Engineering, 72:1811(2024).
-10.	B. Zhao, Y. Zhou, **X. Zong**, Effects of prospective motion correction on perivascular spaces at 7T MRI evaluated using motion artifact simulation, Magn. Reson. Med. 92:1079 (2024).
+1.	B. Zhao, Y. Zhou, **X. Zong**, Effects of prospective motion correction on perivascular spaces at 7T MRI evaluated using motion artifact simulation, Magn. Reson. Med. 92:1079 (2024).
 11.	C. McGrath, S. Little-Letsinger, G. Pagnotti, B. Sen, Z. Xie, G. Uzer, G. B Uzer, **X. Zong**, M. A Styner, J. Rubin, M. Styner, Diet Stimulated Marrow Adiposity Fails to Worsen Early, Age-Related Bone Loss, Obes. Facts, 17:145-157 (2024).
 12.	J. Powell, **X. Zong**, J. Weinstein, S. DeLellis, S. Kane, G. Means, J. Mihalik, Mild Traumatic Brain Injury and Career Stage Associate with Visible Perivascular Spaces in Special Operations Forces Soldiers, Annals of Biomedical Engineering 52:2812–2817 (2024).
 
