@@ -6,7 +6,7 @@ permalink: /publications/
 
 # 2026
 
-5. Z. Dong, T. Yu, B. Zhao, Y. Zhou, X. Yao, J. Zhu, S. Qiu, **X Zong**，Fast Prospective Motion Correction for MRI Based on Electromagnetic Induction Coils with Low Footprint and In-place Calibration, IEEE Trans. on Biomedical Engineering, in press.
+5. Z. Dong, T. Yu, B. Zhao, Y. Zhou, X. Yao, J. Zhu, S. Qiu, **X Zong**，Fast Prospective Motion Correction for MRI Based on Electromagnetic Induction Coils with Low Footprint and In-place Calibration, IEEE Trans. on Biomedical Engineering, in press. 
 4. M. Jia, B. Zhao, T. Yu, J. Zhu, X. Zhang, H. Peng, X. Ye, Y. Zhou, R. Xie, X. Zhang, H. Zhang, **X. Zong**, Prospective Motion Correction with Data Reacquisition Based on Fat Navigators for T1-Weighted Brain MRI at 3 T, Medical & Biological Engineering & Computing, in press.
 3.	J. Lu, T. Yu, S. Wei, Y. Lin, J. Ning, J. Ai, W. Zhang, J. Zhu, S. Qiu, **X. Zong**, Visibility of Penetrating Arteries within Perivascular Spaces in White Matter at 5 T, Biomedical Engineering Communications, doi:10.53388/BMEC2026038 (2026).
 2.	J. Ning, Y. Li, X. Lin, **X. Zong**, Effects of acupoint pressure stimulation on the fatigue recovery ability of the calf muscle, European Journal of Applied Physiology, doi:10.1007/s00421-026-06185-x (2026).
