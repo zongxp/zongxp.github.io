@@ -15,7 +15,7 @@ permalink: /publications/
 # 2025
 
 1.	X. Wang, Y. Xiong, X. Liu, **X. Zong**, C. Duan, Y. Wu, X. Bian, S. Wang, J. Hu, L. Zhang, H. Lu, B. Zhao, J. Huang, Y. Li, Z. Li, Z. Dong, X. Lou， Subcortical nuclei and glymphatic system alterations in migraine with aura: a comparative 7T multimodal MRI analysis, J Headache Pain, 27(1):22 (2025).
-5.	T. Yu, S. Wei, J. Zhu, X. Ye, and **X. Zong**, Posture Dependence of Cerebral Spinal Fluid and Blood Flow by Phase Contrast MRI at 3T, NMR in Biomedicine, 38:e70157 (2025).
+2.	T. Yu, S. Wei, J. Zhu, X. Ye, and **X. Zong**, Posture Dependence of Cerebral Spinal Fluid and Blood Flow by Phase Contrast MRI at 3T, NMR in Biomedicine, 38:e70157 (2025).
 6.	W. Zeng, Y. Li, J. Zhang, T. Chen, K. Wu, **X. Zong**, A deep learning approach for quantifying CT perfusion parameters in stroke, Biomed Phys Eng Express, 11(3). doi: 10.1088/2057-1976/adc9b6, (2025).
 7.	B. Zhao, Y. Zhou, **X. Zong**, Accuracies of four simulation approaches in reproducing motion artifacts and morphometric parameter biases, Magnetic Resonance Materials in Physics, Biology and Medicine, 38:845, (2025).
 8.	Y. Zhou, B. Zhao, J. Moore, **X. Zong**, Automatic Segmentation and Diameter Measurement of Deep Medullary Veins, Magn. Reson. Med., 93:1380-1393 (2025).
