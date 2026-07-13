@@ -8,6 +8,7 @@ permalink: /publications/
 
 1. Z. Dong, T. Yu, B. Zhao, Y. Zhou, X. Yao, J. Zhu, S. Qiu, **X Zong**，Fast Prospective Motion Correction for MRI Based on Electromagnetic Induction Coils with Low Footprint and In-place Calibration, IEEE Trans. on Biomedical Engineering, in press.
 2. M. Jia, B. Zhao, T. Yu, J. Zhu, X. Zhang, H. Peng, X. Ye, Y. Zhou, R. Xie, X. Zhang, H. Zhang, **X. Zong**, Prospective Motion Correction with Data Reacquisition Based on Fat Navigators for T1-Weighted Brain MRI at 3 T, Medical & Biological Engineering & Computing, in press.
+3. G. Lao, X. Zong, C. Liu, X. Wang, Y. Zhang, H. Wei, Motion-compensated implicit neural modeling for 3D multiparametric quantitative MRI, Medical Image Analysis, 113:104208 (2026).
 3. J. Lu, T. Yu, S. Wei, Y. Lin, J. Ning, J. Ai, W. Zhang, J. Zhu, S. Qiu, **X. Zong**, Visibility of Penetrating Arteries within Perivascular Spaces in White Matter at 5 T, Biomedical Engineering Communications, doi:10.53388/BMEC2026038 (2026).
 4. J. Ning, Y. Li, X. Lin, **X. Zong**, Effects of acupoint pressure stimulation on the fatigue recovery ability of the calf muscle, European Journal of Applied Physiology, doi:10.1007/s00421-026-06185-x (2026).
 5. J. Zhang, X. Kong, X. Lin, Y. Li, J. Zhang, **X. Zong**, Deep learning-based perfusion quantification and large vessel exclusion for renal multi-TI arterial spin labelling MRI, Magnetic Resonance Imaging, 126:110573 (2026).
@@ -29,7 +30,7 @@ permalink: /publications/
 
 # 2023 
 
-1.	J. Zhang, K. Sun, J. Yang, Y. Hu, Y. Gu, Z. Cui, **X. Zong**, F. Gao, D. Shen，A generalized dual-domain generative framework with hierarchical consistency for medical image reconstruc-tion and synthesis, Communications Engineering, 2, 72 (2023).
+1.	J. Zhang, K. Sun, J. Yang, Y. Hu, Y. Gu, Z. Cui, **X. Zong**, F. Gao, D. Shen，A generalized dual-domain generative framework with hierarchical consistency for medical image reconstruction and synthesis, Communications Engineering, 2, 72 (2023).
 14.	S. Hu, Y. Chen, **X. Zong**, W. Lin, M. Griswold, D. Ma, Improving motion robustness of 3D MR Fingerprinting with a fat navigator, Magn. Reson. Med, 90, 1802 (2023). 
 15.	**X. Zong**, J. Jimenez, T. Li, W. Powers, In vivo detection of penetrating arteriole alterations in cerebral white matter in patients with diabetes with 7 T MRI, Magnetic Resonance Imaging, 100, 84-92 (2023).
 
@@ -94,19 +95,19 @@ permalink: /publications/
 
 # 2008
 
-1.	**X. Zong**, S. Das, F. Borsa, M. D. Vannette, R. Prozorov, J. Schmalian, and D. C. Johnston, 7Li NMR study of heavy–fermion LiV2O4 containing magnetic defects, Phys. Rev. B 77, 144419 (2008).  (Listed as Editor’s Suggestion paper.) 
+1.	**X. Zong**, S. Das, F. Borsa, M. D. Vannette, R. Prozorov, J. Schmalian, and D. C. Johnston, 7Li NMR study of heavy-fermion LiV2O4 containing magnetic defects, Phys. Rev. B 77, 144419 (2008).  (Listed as Editor’s Suggestion paper.) 
 44.	**X. Zong**, A. Niazi, B. J. Suh, D. C. Johnston, 51V and 17O NMR study of zig-zag spin-1 chain compound CaV2O4, Phys. Rev. B 77, 014412 (2008).
 
 # 2007
 
 1.	B. J. Suh, **X. Zong**, Y. Singh, A. Niazi, and D. C. Johnston, 11B NMR study of normal state properties of superconductors OsB2 and RuB2, Phys. Rev. B 76, 144511 (2007).
-46.	S. Das, **X. Zong**, A. Niazi, A. Ellern, J. Q. Yan, and D. C. Johnston, Crystallography, magnetic susceptibility, heat capacity, and electrical resistivity of heavy–fermion LiV2O4 single crystals grown using a self-flux technique, Phys. Rev. B 76, 054418 (2007).
+46.	S. Das, **X. Zong**, A. Niazi, A. Ellern, J. Q. Yan, and D. C. Johnston, Crystallography, magnetic susceptibility, heat capacity, and electrical resistivity of heavy-fermion LiV2O4 single crystals grown using a self-flux technique, Phys. Rev. B 76, 054418 (2007).
 47.	**X. Zong**, A. Niazi, F. Borsa, X. Ma, and D. C. Johnston, Structure, magnetization, and NMR of the spin-glass compound (LixV1-x)3BO5, Phys. Rev. B 76, 054452 (2007).
-48.	M. Belesi, **X. Zong**, F. Borsa, C. J. Milios, and S. P. Perlepes,  Proton NMR study in hexanuclear manganese single – molecule magnets, Phys. Rev. B, 75, 064414 (2007).
+48.	M. Belesi, **X. Zong**, F. Borsa, C. J. Milios, and S. P. Perlepes,  Proton NMR study in hexanuclear manganese single-molecule magnets, Phys. Rev. B, 75, 064414 (2007).
 
 # 2006
 
-1.	S. Das, X. Ma, **X. Zong**, A. Niazi, and D. C. Johnston, Phase diagram of the Li2O - V2O3-V2O5 System at 700 oC: Correlations with magnetic defect concentration in heavy fermion LiV2O4, Phys. Rev. B 74, 184417 (2006).
+1.	S. Das, X. Ma, **X. Zong**, A. Niazi, and D. C. Johnston, Phase diagram of the Li2O-V2O3-V2O5 System at 700 oC: Correlations with magnetic defect concentration in heavy fermion LiV2O4, Phys. Rev. B 74, 184417 (2006).
 50.	S. S. Adler et al. PHENIX Collaboration, J/ψ Production and Nuclear Effects for d+Au and p+p Collisions at √sNN=200  GeV, Phys. Rev. Lett. 96, 012304 (2006).
 
 # 2005
