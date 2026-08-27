@@ -6,7 +6,9 @@ permalink: /publications/
 
 # 2026
 
-1. Z. Dong, T. Yu, B. Zhao, Y. Zhou, X. Yao, J. Zhu, S. Qiu, **X Zong**，Fast Prospective Motion Correction for MRI Based on Electromagnetic Induction Coils with Low Footprint and In-place Calibration, IEEE Trans. on Biomedical Engineering, in press.
+1. H. Wu, B. Zhao, Y. Zhou, C. Duan, Y. Li, X. Lou, **X. Zong**, Evaluation of FatNav-based pro-spective motion correction for perivascular space imaging with T2-weighted MRI at 7T, NMR in Biomedicine, in press.
+2. X. Wang, J. Hu, C. Duan, Y. Xiong, **X. Zong**, Y. Wu, L. Zhang, X. Bian, S. Wang, H. Lu, B. Zhao, Z. Li, J. Sun, Z. Dong, X. Lou, Multimodal 7T MRI reveals subcortical structural, func-tional, iron accumulation, and glymphatic abnormalities in chronic migraine, Cephalalgia, in press.
+1. Z. Dong, T. Yu, B. Zhao, Y. Zhou, X. Yao, J. Zhu, S. Qiu, **X. Zong**，Fast Prospective Motion Correction for MRI Based on Electromagnetic Induction Coils with Low Footprint and In-place Calibration, IEEE Trans. on Biomedical Engineering, in press.
 2. M. Jia, B. Zhao, T. Yu, J. Zhu, X. Zhang, H. Peng, X. Ye, Y. Zhou, R. Xie, X. Zhang, H. Zhang, **X. Zong**, Prospective Motion Correction with Data Reacquisition Based on Fat Navigators for T1-Weighted Brain MRI at 3 T, Medical & Biological Engineering & Computing, in press.
 3. G. Lao, **X. Zong**, C. Liu, X. Wang, Y. Zhang, H. Wei, Motion-compensated implicit neural modeling for 3D multiparametric quantitative MRI, Medical Image Analysis, 113:104208 (2026).
 3. J. Lu, T. Yu, S. Wei, Y. Lin, J. Ning, J. Ai, W. Zhang, J. Zhu, S. Qiu, **X. Zong**, Visibility of Penetrating Arteries within Perivascular Spaces in White Matter at 5 T, Biomedical Engineering Communications, doi:10.53388/BMEC2026038 (2026).
