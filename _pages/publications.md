@@ -6,8 +6,8 @@ permalink: /publications/
 
 # 2026
 
-1. H. Wu, B. Zhao, Y. Zhou, C. Duan, Y. Li, X. Lou, **X. Zong**, *Evaluation of FatNav-based pro-spective motion correction for perivascular space imaging with T2-weighted MRI at 7T*, NMR in Biomedicine, in press. 
-2. X. Wang, J. Hu, C. Duan, Y. Xiong, **X. Zong**, Y. Wu, L. Zhang, X. Bian, S. Wang, H. Lu, B. Zhao, Z. Li, J. Sun, Z. Dong, X. Lou, *Multimodal 7T MRI reveals subcortical structural, func-tional, iron accumulation, and glymphatic abnormalities in chronic migraine*, Cephalalgia, in press.
+1. H. Wu, B. Zhao, Y. Zhou, C. Duan, Y. Li, X. Lou, **X. Zong**, *Evaluation of FatNav-based prospective motion correction for perivascular space imaging with T2-weighted MRI at 7T*, NMR in Biomedicine, in press. 
+2. X. Wang, J. Hu, C. Duan, Y. Xiong, **X. Zong**, Y. Wu, L. Zhang, X. Bian, S. Wang, H. Lu, B. Zhao, Z. Li, J. Sun, Z. Dong, X. Lou, *Multimodal 7T MRI reveals subcortical structural, functional, iron accumulation, and glymphatic abnormalities in chronic migraine*, Cephalalgia, in press.
 1. Z. Dong, T. Yu, B. Zhao, Y. Zhou, X. Yao, J. Zhu, S. Qiu, **X. Zong**，*Fast Prospective Motion Correction for MRI Based on Electromagnetic Induction Coils with Low Footprint and In-place Calibration*, IEEE Trans. on Biomedical Engineering, [doi:10.1109/TBME.2026.3710934.](https://ieeexplore.ieee.org/abstract/document/11596563)
 2. M. Jia, B. Zhao, T. Yu, J. Zhu, X. Zhang, H. Peng, X. Ye, Y. Zhou, R. Xie, X. Zhang, H. Zhang, **X. Zong**, *Prospective Motion Correction with Data Reacquisition Based on Fat Navigators for T1-Weighted Brain MRI at 3 T*, Medical & Biological Engineering & Computing, [doi:10.1007/s11517-026-03622-z.](https://link.springer.com/article/10.1007/s11517-026-03622-z)
 3. G. Lao, **X. Zong**, C. Liu, X. Wang, Y. Zhang, H. Wei, *Motion-compensated implicit neural modeling for 3D multiparametric quantitative MRI*, Medical Image Analysis, 113:104208 (2026).
