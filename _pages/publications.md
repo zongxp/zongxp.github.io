@@ -6,7 +6,7 @@ permalink: /publications/
 
 # 2026
 
-1. C. Cheng, Y. He, X. Cao, S. Xiang, Y. Fang, M. Wang, Z. Shao, Y. Yao, H. Huang, S. Xu, X. Luo, **X. Zong**, W. Wang, X. Hao, M. Wang, Multi-omics insights into the genetic and proteomic architecture of white matter free water and its role in neurovascular integrity, Proc Natl Acad Sci, in press.
+1. C. Cheng, Y. He, X. Cao, S. Xiang, Y. Fang, M. Wang, Z. Shao, Y. Yao, H. Huang, S. Xu, X. Luo, **X. Zong**, W. Wang, X. Hao, M. Wang, *Multi-omics insights into the genetic and proteomic architecture of white matter free water and its role in neurovascular integrity*, Proc Natl Acad Sci, in press.
 1. H. Wu, B. Zhao, Y. Zhou, C. Duan, Y. Li, X. Lou, **X. Zong**, *Evaluation of FatNav-based prospective motion correction for perivascular space imaging with T2-weighted MRI at 7T*, NMR in Biomedicine, in press. 
 2. X. Wang, J. Hu, C. Duan, Y. Xiong, **X. Zong**, Y. Wu, L. Zhang, X. Bian, S. Wang, H. Lu, B. Zhao, Z. Li, J. Sun, Z. Dong, X. Lou, *Multimodal 7T MRI reveals subcortical structural, functional, iron accumulation, and glymphatic abnormalities in chronic migraine*, Cephalalgia, in press.
 1. Z. Dong, T. Yu, B. Zhao, Y. Zhou, X. Yao, J. Zhu, S. Qiu, **X. Zong**，*Fast Prospective Motion Correction for MRI Based on Electromagnetic Induction Coils with Low Footprint and In-place Calibration*, IEEE Trans. on Biomedical Engineering, [doi:10.1109/TBME.2026.3710934.](https://ieeexplore.ieee.org/abstract/document/11596563)
