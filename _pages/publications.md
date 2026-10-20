@@ -6,6 +6,7 @@ permalink: /publications/
 
 # 2026
 
+1. C. Cheng, Y. He, X. Cao, S. Xiang, Y. Fang, M. Wang, Z. Shao, Y. Yao, H. Huang, S. Xu, X. Luo, **X. Zong**, W. Wang, X. Hao, M. Wang, Multi-omics insights into the genetic and proteomic architecture of white matter free water and its role in neurovascular integrity, Proc Natl Acad Sci, in press.
 1. H. Wu, B. Zhao, Y. Zhou, C. Duan, Y. Li, X. Lou, **X. Zong**, *Evaluation of FatNav-based prospective motion correction for perivascular space imaging with T2-weighted MRI at 7T*, NMR in Biomedicine, in press. 
 2. X. Wang, J. Hu, C. Duan, Y. Xiong, **X. Zong**, Y. Wu, L. Zhang, X. Bian, S. Wang, H. Lu, B. Zhao, Z. Li, J. Sun, Z. Dong, X. Lou, *Multimodal 7T MRI reveals subcortical structural, functional, iron accumulation, and glymphatic abnormalities in chronic migraine*, Cephalalgia, in press.
 1. Z. Dong, T. Yu, B. Zhao, Y. Zhou, X. Yao, J. Zhu, S. Qiu, **X. Zong**，*Fast Prospective Motion Correction for MRI Based on Electromagnetic Induction Coils with Low Footprint and In-place Calibration*, IEEE Trans. on Biomedical Engineering, [doi:10.1109/TBME.2026.3710934.](https://ieeexplore.ieee.org/abstract/document/11596563)
@@ -39,7 +40,7 @@ permalink: /publications/
 # 2022
 
 1.	J. Moore, J. Jimenez, W. Lin, W. Powers, **X. Zong**, *Prospective Motion Correction and Automatic Segmentation of Penetrating Arteries in Phase Contrast MRI at 7 T*, Magn. Reson. Med, 88, 2088-2100 (2022).
-17.	A. Rina1, A. Papanikolaou, **X. Zong**, Dorina T. Papageorgiou, G. A. Keliris, and S. M. Smirnakis, *Visual Motion Coherence Responses in Human Visual Cortex, Frontiers in Neuroscience*, doi:10.3389/fnins.2022.719250 (2022).
+17.	A. Rina, A. Papanikolaou, **X. Zong**, Dorina T. Papageorgiou, G. A. Keliris, and S. M. Smirnakis, *Visual Motion Coherence Responses in Human Visual Cortex, Frontiers in Neuroscience*, doi:10.3389/fnins.2022.719250 (2022).
 
 # 2021 
 
@@ -69,7 +70,7 @@ permalink: /publications/
 
 # 2016
  
-1.	X. Ma, J. Tian, Z. Wu, **X. Zong**, J. Dong, W. Zhan, Y. Xu, Z. Li, G Jiang, *Spatial disassocia-tion of disrupted functional connectivity for the default mode network in patients with end-stage renal disease*, Plos one 11 (8), e0161392 (2016)
+1.	X. Ma, J. Tian, Z. Wu, **X. Zong**, J. Dong, W. Zhan, Y. Xu, Z. Li, G Jiang, *Spatial disassociation of disrupted functional connectivity for the default mode network in patients with end-stage renal disease*, Plos one 11 (8), e0161392 (2016)
 31.	S. H. Park, **X. Zong**, Y. Gao, W. Lin, and D. Shen, *Segmentation of perivascular spaces in 7 T MR image using auto-context model with orientation-normalized features*. NeuroImage 134, 223-235 (2016). 
 32.	K. Bahrami, F. Shi, **X. Zong**, H. W. Shin, H. An, and D. Shen, *Reconstruction of 7T-like images from 3T MRI*, IEEE Trans. Med. Imaging 35, 2085 (2016).
 33.	**X. Zong**, S. H. Park, D. Shen, and W. Lin, *Visualization of perivascular spaces in the human brain at 7 T: sequence optimization and morphology characterization*, NeuroImage 125, 895 (2016).
